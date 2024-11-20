@@ -19,7 +19,8 @@ básico do pedido, e adicionar o valor do frete. A regra para cálculo do frete 
 
 </p>
 
-
+## Resuiltado do desafio
+![Alt text](assets/images/image5.png)
 
 
 ---

@@ -21,7 +21,7 @@ public class OrderApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		Order order = new Order(1309, 95.90, 00.00);
-		
+		System.out.println();
 		System.out.println("Pedido código: " + order.getCode());
 		System.out.println("Valor total: " + orderService.total(order));
 	}
